@@ -1,4 +1,4 @@
-# Kubernetes for beginners
+# Kubernetes advanced
 <H3> 
 This repo contains the kubernetes documenation and practice yaml files to learn Kubernetes and prepare for CKA.
 </H3>
